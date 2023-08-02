@@ -1,0 +1,148 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (12) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 775milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 775"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.recaptchaBox' and 'TestCase.TeknasyonCase.recaptchaBox'"}
+{"logLevel":"debug","message":"Found Recaptcha Doğrulama Alanına Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.waitThreeSeconds' and 'TestCase.TeknasyonCase.waitThreeSeconds'"}
+{"logLevel":"debug","message":"Found Üç Saniye Beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isTeknasyonTitle' and 'TestCase.TeknasyonCase.isTeknasyonTitle'"}
+{"logLevel":"debug","message":"Found Teknasyon Başlığı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.emailBox' and 'TestCase.TeknasyonCase.emailBox'"}
+{"logLevel":"debug","message":"Found Başvuru Formuna Email Yazılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.clickApplyFormApplyButton' and 'TestCase.TeknasyonCase.clickApplyFormApplyButton'"}
+{"logLevel":"debug","message":"Found Başvuru Formu Başvur Butonuna Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.navigateToTeknasyon' and 'TestCase.TeknasyonCase.navigateToTeknasyon'"}
+{"logLevel":"debug","message":"Found Google Ana Sayfasına Gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isButtonPresent' and 'TestCase.TeknasyonCase.isButtonPresent'"}
+{"logLevel":"debug","message":"Found Kariyer Butonunun Var Olduğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.scrollRecaptchaBox' and 'TestCase.TeknasyonCase.scrollRecaptchaBox'"}
+{"logLevel":"debug","message":"Found Recaptcha Doğrulama Alanına Scroll Yapılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.searchBox' and 'TestCase.TeknasyonCase.searchBox'"}
+{"logLevel":"debug","message":"Found Arama Motoruna Teknasyon Yazılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isListedSite' and 'TestCase.TeknasyonCase.isListedSite'"}
+{"logLevel":"debug","message":"Found Teknasyon Web Sitesi Listelendiği Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.formOkBox' and 'TestCase.TeknasyonCase.formOkBox'"}
+{"logLevel":"debug","message":"Found Aydınlatma Metni Check Box Alanına Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isCvText' and 'TestCase.TeknasyonCase.isCvText'"}
+{"logLevel":"debug","message":"Found Cv Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.clickBackendApplyButton' and 'TestCase.TeknasyonCase.clickBackendApplyButton'"}
+{"logLevel":"debug","message":"Found Başvur Butonuna Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.clickBackendTextButton' and 'TestCase.TeknasyonCase.clickBackendTextButton'"}
+{"logLevel":"debug","message":"Found Backend Yazılım Geliştirici Pozisyonuna Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isCvButtonPresent' and 'TestCase.TeknasyonCase.isCvButtonPresent'"}
+{"logLevel":"debug","message":"Found Cv Yükle Butonunun Var Olduğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.clickSite' and 'TestCase.TeknasyonCase.clickSite'"}
+{"logLevel":"debug","message":"Found Teknasyon Sitesine Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isNameSurnameText' and 'TestCase.TeknasyonCase.isNameSurnameText'"}
+{"logLevel":"debug","message":"Found Ad Soyad Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isEmailText' and 'TestCase.TeknasyonCase.isEmailText'"}
+{"logLevel":"debug","message":"Found Email Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isExplanationValid' and 'TestCase.TeknasyonCase.isExplanationValid'"}
+{"logLevel":"debug","message":"Found Açıklama Kısmı Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.waitFiveSeconds' and 'TestCase.TeknasyonCase.waitFiveSeconds'"}
+{"logLevel":"debug","message":"Found Beş Saniye Beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isApplyButtonPresent' and 'TestCase.TeknasyonCase.isApplyButtonPresent'"}
+{"logLevel":"debug","message":"Found Başvur Butonunun Var Olduğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isRecaptchaText' and 'TestCase.TeknasyonCase.isRecaptchaText'"}
+{"logLevel":"debug","message":"Found Recaptcha Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.scrollButton' and 'TestCase.TeknasyonCase.scrollButton'"}
+{"logLevel":"debug","message":"Found Kariyer Yazısına Scroll Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isValidSite' and 'TestCase.TeknasyonCase.isValidSite'"}
+{"logLevel":"debug","message":"Found Google Web Sitesi Olduğu Kontrolü Yapılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.clickButton' and 'TestCase.TeknasyonCase.clickButton'"}
+{"logLevel":"debug","message":"Found Kariyer Yazısına Tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isBackendTitle' and 'TestCase.TeknasyonCase.isBackendTitle'"}
+{"logLevel":"debug","message":"Found Backend Yazılım Geliştirici Pozisyonu Başlığı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isFormCheckBoxText' and 'TestCase.TeknasyonCase.isFormCheckBoxText'"}
+{"logLevel":"debug","message":"Found Aydınlatma Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.nameSurnameBox' and 'TestCase.TeknasyonCase.nameSurnameBox'"}
+{"logLevel":"debug","message":"Found Başvuru Formuna Ad Soyad Yazılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isBackendButtonPresent' and 'TestCase.TeknasyonCase.isBackendButtonPresent'"}
+{"logLevel":"debug","message":"Found Backend Yazılım Geliştirici Pozisyonunun Var Olduğu Kontrol Edilir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tKariyer Yazısına Scroll Edilir : public void scrollButton()"}
+{"logLevel":"debug","message":"\tRecaptcha Doğrulama Alanına Scroll Yapılır : public void scrollRecaptchaBox()"}
+{"logLevel":"debug","message":"\tAçıklama Kısmı Kontrol Edilir : public void isExplanationValid()"}
+{"logLevel":"debug","message":"\tBaşvur Butonunun Var Olduğu Kontrol Edilir : public void isApplyButtonPresent()"}
+{"logLevel":"debug","message":"\tCv Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir : public void isCvText()"}
+{"logLevel":"debug","message":"\tBaşvuru Formuna Email Yazılır : public void emailBox()"}
+{"logLevel":"debug","message":"\tBackend Yazılım Geliştirici Pozisyonu Başlığı Doğruluğu Kontrol Edilir : public void isBackendTitle()"}
+{"logLevel":"debug","message":"\tBackend Yazılım Geliştirici Pozisyonuna Tıklanır : public void clickBackendTextButton()"}
+{"logLevel":"debug","message":"\tBaşvuru Formuna Ad Soyad Yazılır : public void nameSurnameBox()"}
+{"logLevel":"debug","message":"\tArama Motoruna Teknasyon Yazılır : public void searchBox()"}
+{"logLevel":"debug","message":"\tAd Soyad Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir : public void isNameSurnameText()"}
+{"logLevel":"debug","message":"\tGoogle Web Sitesi Olduğu Kontrolü Yapılır : public void isValidSite()"}
+{"logLevel":"debug","message":"\tBaşvur Butonuna Tıklanır : public void clickBackendApplyButton()"}
+{"logLevel":"debug","message":"\tAydınlatma Metni Check Box Alanına Tıklanır : public void formOkBox()"}
+{"logLevel":"debug","message":"\tRecaptcha Doğrulama Alanına Tıklanır : public void recaptchaBox()"}
+{"logLevel":"debug","message":"\tTeknasyon Web Sitesi Listelendiği Kontrol Edilir : public void isListedSite()"}
+{"logLevel":"debug","message":"\tCv Yükle Butonunun Var Olduğu Kontrol Edilir : public void isCvButtonPresent()"}
+{"logLevel":"debug","message":"\tGoogle Ana Sayfasına Gidilir : public void navigateToTeknasyon()"}
+{"logLevel":"debug","message":"\tKariyer Yazısına Tıklanır : public void clickButton()"}
+{"logLevel":"debug","message":"\tBeş Saniye Beklenir : public void waitFiveSeconds() throws InterruptedException"}
+{"logLevel":"debug","message":"\tTeknasyon Sitesine Tıklanır : public void clickSite()"}
+{"logLevel":"debug","message":"\tRecaptcha Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir : public void isRecaptchaText()"}
+{"logLevel":"debug","message":"\tKariyer Butonunun Var Olduğu Kontrol Edilir : public void isButtonPresent()"}
+{"logLevel":"debug","message":"\tTeknasyon Başlığı Doğruluğu Kontrol Edilir : public void isTeknasyonTitle()"}
+{"logLevel":"debug","message":"\tEmail Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir : public void isEmailText()"}
+{"logLevel":"debug","message":"\tAydınlatma Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir : public void isFormCheckBoxText()"}
+{"logLevel":"debug","message":"\tBaşvuru Formu Başvur Butonuna Tıklanır : public void clickApplyFormApplyButton()"}
+{"logLevel":"debug","message":"\tBackend Yazılım Geliştirici Pozisyonunun Var Olduğu Kontrol Edilir : public void isBackendButtonPresent()"}
+{"logLevel":"debug","message":"\tÜç Saniye Beklenir : public void waitThreeSeconds() throws InterruptedException"}
+{"logLevel":"debug","message":"started gRPC server on port 63360"}
+{"logLevel":"info","message":"Listening on port:63360"}
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 42453
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1690549839.859][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+Jul 28, 2023 4:10:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Google Ana Sayfasına Gidilir' using 'class TestCase.TeknasyonCase.navigateToTeknasyon"}
+{"logLevel":"debug","message":"Executing 'Google Web Sitesi Olduğu Kontrolü Yapılır' using 'class TestCase.TeknasyonCase.isValidSite"}
+{"logLevel":"debug","message":"Executing 'Arama Motoruna Teknasyon Yazılır' using 'class TestCase.TeknasyonCase.searchBox"}
+{"logLevel":"debug","message":"Executing 'Teknasyon Web Sitesi Listelendiği Kontrol Edilir' using 'class TestCase.TeknasyonCase.isListedSite"}
+{"logLevel":"debug","message":"Executing 'Teknasyon Sitesine Tıklanır' using 'class TestCase.TeknasyonCase.clickSite"}
+{"logLevel":"debug","message":"Executing 'Teknasyon Başlığı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isTeknasyonTitle"}
+{"logLevel":"debug","message":"Executing 'Kariyer Yazısına Scroll Edilir' using 'class TestCase.TeknasyonCase.scrollButton"}
+{"logLevel":"debug","message":"Executing 'Beş Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitFiveSeconds"}
+{"logLevel":"debug","message":"Executing 'Kariyer Butonunun Var Olduğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isButtonPresent"}
+{"logLevel":"debug","message":"Executing 'Kariyer Yazısına Tıklanır' using 'class TestCase.TeknasyonCase.clickButton"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Açıklama Kısmı Kontrol Edilir' using 'class TestCase.TeknasyonCase.isExplanationValid"}
+{"logLevel":"debug","message":"Executing 'Backend Yazılım Geliştirici Pozisyonunun Var Olduğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isBackendButtonPresent"}
+{"logLevel":"debug","message":"Executing 'Backend Yazılım Geliştirici Pozisyonuna Tıklanır' using 'class TestCase.TeknasyonCase.clickBackendTextButton"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Backend Yazılım Geliştirici Pozisyonu Başlığı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isBackendTitle"}
+{"logLevel":"debug","message":"Executing 'Başvur Butonunun Var Olduğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isApplyButtonPresent"}
+{"logLevel":"debug","message":"Executing 'Başvur Butonuna Tıklanır' using 'class TestCase.TeknasyonCase.clickBackendApplyButton"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Başvuru Formu Başvur Butonuna Tıklanır' using 'class TestCase.TeknasyonCase.clickApplyFormApplyButton"}
+{"logLevel":"debug","message":"Executing 'Ad Soyad Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isNameSurnameText"}
+{"logLevel":"debug","message":"Executing 'Email Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isEmailText"}
+{"logLevel":"debug","message":"Executing 'Cv Doldurma Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isCvText"}
+{"logLevel":"debug","message":"Executing 'Aydınlatma Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isFormCheckBoxText"}
+{"logLevel":"debug","message":"Executing 'Recaptcha Metni Alanı Uyarı Yazıaı Doğruluğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isRecaptchaText"}
+{"logLevel":"debug","message":"Executing 'Cv Yükle Butonunun Var Olduğu Kontrol Edilir' using 'class TestCase.TeknasyonCase.isCvButtonPresent"}
+{"logLevel":"debug","message":"Executing 'Başvuru Formuna Ad Soyad Yazılır' using 'class TestCase.TeknasyonCase.nameSurnameBox"}
+{"logLevel":"debug","message":"Executing 'Başvuru Formuna Email Yazılır' using 'class TestCase.TeknasyonCase.emailBox"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Aydınlatma Metni Check Box Alanına Tıklanır' using 'class TestCase.TeknasyonCase.formOkBox"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Recaptcha Doğrulama Alanına Scroll Yapılır' using 'class TestCase.TeknasyonCase.scrollRecaptchaBox"}
+{"logLevel":"debug","message":"Executing 'Üç Saniye Beklenir' using 'class TestCase.TeknasyonCase.waitThreeSeconds"}
+{"logLevel":"debug","message":"Executing 'Recaptcha Doğrulama Alanına Tıklanır' using 'class TestCase.TeknasyonCase.recaptchaBox"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

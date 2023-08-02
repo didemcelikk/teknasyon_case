@@ -1,0 +1,37 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (12) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 670milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 670"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.searchBox' and 'TestCase.TeknasyonCase.searchBox'"}
+{"logLevel":"debug","message":"Found Arama Motoruna Teknasyon Yazılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.navigateToTeknasyon' and 'TestCase.TeknasyonCase.navigateToTeknasyon'"}
+{"logLevel":"debug","message":"Found Google Ana Sayfasına Gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'TestCase.TeknasyonCase.isValidSite' and 'TestCase.TeknasyonCase.isValidSite'"}
+{"logLevel":"debug","message":"Found Google Web Sitesi Olduğu Kontrolü Yapılır in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGoogle Web Sitesi Olduğu Kontrolü Yapılır : public void isValidSite()"}
+{"logLevel":"debug","message":"\tGoogle Ana Sayfasına Gidilir : public void navigateToTeknasyon()"}
+{"logLevel":"debug","message":"\tArama Motoruna Teknasyon Yazılır : public void searchBox()"}
+{"logLevel":"debug","message":"started gRPC server on port 57103"}
+{"logLevel":"info","message":"Listening on port:57103"}
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 3604
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 14, 2023 5:10:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Google Ana Sayfasına Gidilir' using 'class TestCase.TeknasyonCase.navigateToTeknasyon"}
+{"logLevel":"debug","message":"Executing 'Google Web Sitesi Olduğu Kontrolü Yapılır' using 'class TestCase.TeknasyonCase.isValidSite"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

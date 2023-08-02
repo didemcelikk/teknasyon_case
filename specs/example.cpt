@@ -1,0 +1,55 @@
+Created by dcelik on 6/23/23
+
+This is a concept file with following syntax for each concept.
+
+# Google'da Teknasyon Aranır
+
+* Google Ana Sayfasına Gidilir
+* Google Web Sitesi Olduğu Kontrolü Yapılır
+* Arama Motoruna Teknasyon Yazılır
+* Teknasyon Web Sitesi Listelendiği Kontrol Edilir
+* Teknasyon Sitesine Tıklanır
+
+# Teknasyon Sitesi Kontrol Edilir
+
+* Teknasyon Başlığı Doğruluğu Kontrol Edilir
+
+# Kariyer Butonuna Tıklanır
+
+* Kariyer Yazısına Scroll Edilir
+* Beş Saniye Beklenir
+* Kariyer Butonunun Var Olduğu Kontrol Edilir
+* Kariyer Yazısına Tıklanır
+* Üç Saniye Beklenir
+* Açıklama Kısmı Kontrol Edilir
+* Backend Yazılım Geliştirici Pozisyonunun Var Olduğu Kontrol Edilir
+* Backend Yazılım Geliştirici Pozisyonuna Tıklanır
+
+# Başvuru Butonuna Tıklanır
+
+* Üç Saniye Beklenir
+* Backend Yazılım Geliştirici Pozisyonu Başlığı Doğruluğu Kontrol Edilir
+* Başvur Butonunun Var Olduğu Kontrol Edilir
+* Başvur Butonuna Tıklanır
+
+# Backend Pozisyonuna Başvuru Yapılır
+
+* Üç Saniye Beklenir
+* Başvuru Formu Başvur Butonuna Tıklanır
+* Ad Soyad Doldurma Alanı Uyarı Yazısı Doğruluğu Kontrol Edilir
+* Email Doldurma Alanı Uyarı Yazısı Doğruluğu Kontrol Edilir
+* Cv Doldurma Alanı Uyarı Yazısı Doğruluğu Kontrol Edilir
+* Aydınlatma Metni Alanı Uyarı Yazısı Doğruluğu Kontrol Edilir
+* Recaptcha Metni Alanı Uyarı Yazısı Doğruluğu Kontrol Edilir
+* Cv Ekle Butonunun Var Olduğu Kontrol Edilir
+* Başvuru Formuna Ad Soyad Yazılır
+* Başvuru Formuna Email Yazılır
+//* Cv Yükleme Yapılır
+* Üç Saniye Beklenir
+* Aydınlatma Metni Check Box Alanına Tıklanır
+* Üç Saniye Beklenir
+* Recaptcha Doğrulama Alanına Tıklanır
+//* Başvuru Formu Başvur Butonuna Tıklanır
+//* Başvuru Başarılı Metni Kontrol Edilir
+
+
